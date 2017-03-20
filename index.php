@@ -6,3 +6,5 @@ class test(){
 	}
 	
 }
+$testA = newtest();
+$testA->ok();
